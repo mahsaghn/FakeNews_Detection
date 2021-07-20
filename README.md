@@ -1,1 +1,2 @@
 # FakeNewsDetection
+MIT license
