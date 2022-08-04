@@ -1,4 +1,4 @@
-# FakeNewsDetection
+# Fake News Detection
 This project attempts to detect fake news. The dataset used for this project is gathered by Mr M. Zarharan.
 
 ## Features
